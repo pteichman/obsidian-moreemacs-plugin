@@ -1,7 +1,7 @@
 {
-    "name": "obsidian-sample-plugin",
+    "name": "obsidian-moreemacs-plugin",
     "version": "0.12.0",
-    "description": "This is a sample plugin for Obsidian (https://obsidian.md)",
+    "description": "More Emacs navigation and editing keybindings",
     "main": "main.js",
     "scripts": {
         "dev": "esbuild main.ts --bundle --external:obsidian --outdir=.  --target=es2016 --format=cjs --sourcemap=inline --watch",
